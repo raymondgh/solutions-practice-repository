@@ -62,7 +62,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 ## Exercises:
 
-1. Sign up for [Github](https://github.com/join) with your personal email and enable 2FA
+1. Sign up for [Github](https://github.com/join) with your personal email and enable 2FA. You can use your periscope email if you prefer, but traditionally developers will keep one main account across their careers that is granted access to the company they currently work for.
 2. Reply to Ray on slack with your github username to be added as a collaborator for this repo
 3. Download and install [Github Desktop](https://desktop.github.com/)
 4. Download and install [Sublime Text 3](https://www.sublimetext.com/3)
