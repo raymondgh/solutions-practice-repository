@@ -1,7 +1,7 @@
-# Git Practice
+Git Practice
 
 
-## Intro to Git
+# Intro to Git
 
 Git is version control software. Software engineers use it to track changes, contribute code simultaneously without interfering with each other, and to easily do things like undo changes or find out when something broke.
 
@@ -15,9 +15,9 @@ Places: Local, Remote
 Tools: Github, Sourcetree, Command Line Interface
 Bonus: Merge conflicts
 
-## Git Good
+# Git Good
 
-### Things
+## Things
 
 **Repository** (“Repo”)
 
@@ -44,7 +44,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 **Local** - A local repository is a repository on your own local machine
 
 
-### Actions
+## Actions
 
 **Clone** - Downloading a repository from remote to local
 
@@ -56,7 +56,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 **Fork** - Copy a repository into your own directory. This creates a totally new repository with totally reset permissions and settings.
 
-### Tools
+## Tools
 
 **Command Line Interface (CLI)** - The original tool for using Git is the CLI. There’s a steep learning curve, but the pros will use this.
 
