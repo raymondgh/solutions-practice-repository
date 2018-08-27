@@ -5,14 +5,18 @@ Git Practice
 
 Git is version control software. Software engineers use it to track changes, contribute code simultaneously without interfering with each other, and to easily do things like undo changes or find out when something broke.
 
-It’s a good idea to study some of the official documentation, or at least watch some of the introduction videos here: https://git-scm.com/doc
+It’s a good idea to study some of the official documentation, or at least watch some of the introduction videos here: https://git-scm.com/doc But that's not totally needed to complete this training
 
 Using git proficiently doesn’t require a full knowledge of everything, just the following key concepts:
 
 Things: Repository, Branch, Commit
+
 Actions: Clone, Pull, Push, Pull Request, Merge
+
 Places: Local, Remote
+
 Tools: Github, Sourcetree, Command Line Interface
+
 Bonus: Merge conflicts
 
 # Git Good
@@ -97,5 +101,6 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Adam
 - Skip
 - Ray
+- Betsy
 
 ## People who have completed Git Training
