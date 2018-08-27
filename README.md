@@ -90,8 +90,10 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Skip
 - Ray
 - Betsy
-- Namitha
+
 - Kyle
 - Alok
 
 ## People who have completed Git Training
+
+- Namitha
