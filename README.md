@@ -70,7 +70,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 ## Exercises:
 
-1. Sign up for [Github](https://github.com/join)
+1. Sign up for [Github](https://github.com/join) with your personal email and enable 2FA
 2. Have someone add you as a contributor to this repository
 3. Download and install [Github Desktop](https://desktop.github.com/)
 4. Download and install [Sublime Text 3](https://www.sublimetext.com/3)
