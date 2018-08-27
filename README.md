@@ -70,14 +70,31 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 ## Exercises:
 
-1. Sign up for Github
-2. Download and install Github Desktop
-3. Have someone add you as a contributor to this repository
-4. Clone this repository to your desktop computer using Github Desktop
-5. Pull the latest code
-6. Create a new branch, name it with your own name
-7. Commit changes to your branch
-8. Push your changes to the remote repository
-9. Submit a Pull Request for your branch
-10. Check github.com to see active pull requests
-11. Merge a PR
+1. Sign up for [Github](https://github.com/join)
+2. Have someone add you as a contributor to this repository
+3. Download and install [Github Desktop](https://desktop.github.com/)
+4. Download and install [Sublime Text 3](https://www.sublimetext.com/3)
+5. _Clone_ this repository to your desktop computer using Github Desktop
+6. _Pull_ the latest code
+7. Create a new _branch_, name it with your own name
+8. _Commit_ changes to your branch (move your name from one section to the other in the readme.md file)
+9. _Push_ your changes to the remote repository
+10. Submit a _Pull Request_ for your branch
+11. Check github.com to see active pull requests
+12. _Merge_ a PR
+
+## People who haven't completed Git Training
+
+- Sunny
+- Esther
+- Andreas
+- Charlotte
+- Neha
+- Caitlan
+- Christine
+- Mark
+- Adam
+- Skip
+- Ray
+
+## People who have completed Git Training
