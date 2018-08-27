@@ -17,7 +17,7 @@ A repository is the highest level container of code. Usually, each project will 
 
 **Branch**
 
-A branch is a version of the repository. The main branch is called the “Master Branch” and other branches are named by the developers involved in the project.
+A branch is essentially a version of the repository's code. The main branch is called the “Master Branch” and other branches are named by the developers involved in the project.
 
 Typically, when someone wants to make changes to a project, they’ll create a new branch based off the master branch, make some changes, then merge the branch back to the master branch (more on this later).
 
