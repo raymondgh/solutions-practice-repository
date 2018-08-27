@@ -37,7 +37,7 @@ A commit is a saved change to a branch. There’s no auto-saving with git, so it
 
 A request for a branch to be merged into another branch. Typically after you finish updating the branch you’re working on, you’ll submit a PR and a teammate will read it, make sure it doesn’t break anything, and then either Merge it into destination branch or reject it with a reason that you can fix.
 
-### Places
+## Places
 
 **Remote** - A remote repository is a repository on a server somewhere
 
