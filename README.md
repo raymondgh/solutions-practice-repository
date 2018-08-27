@@ -77,11 +77,12 @@ A request for a branch to be merged into another branch. Typically after you fin
 5. _Clone_ this repository to your desktop computer using Github Desktop
 6. _Pull_ the latest code
 7. Create a new _branch_, name it with your own name
-8. _Commit_ changes to your branch (move your name from one section to the other in the readme.md file)
-9. _Push_ your changes to the remote repository
-10. Submit a _Pull Request_ for your branch
-11. Check github.com to see active pull requests
-12. _Merge_ a PR
+8. Open Sublime Text and edit README.md by moving your name from one section to the other
+9. _Commit_ changes to your branch
+10. _Push_ your changes to the remote repository
+11. Submit a _Pull Request_ for your branch
+12. Check github.com to see active pull requests
+13. _Merge_ a PR
 
 ## People who haven't completed Git Training
 
