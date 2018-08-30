@@ -79,7 +79,6 @@ A request for a branch to be merged into another branch. Typically after you fin
 ## People who haven't completed Git Training
 
 - Sunny
-- Esther
 - Andreas
 - Charlotte
 - Neha
@@ -96,4 +95,4 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 - Namitha
 - Ray
-
+- Esther
