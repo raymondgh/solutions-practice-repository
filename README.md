@@ -87,11 +87,12 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Mark
 - Adam
 - Skip
-- Ray
 - Betsy
-- Namitha
 - Kyle
 - Alok
 
 ## People who have completed Git Training
+
+- Namitha
+- Ray
 - Esther
