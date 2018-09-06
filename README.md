@@ -80,7 +80,6 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 - Sunny
 - Andreas
-- Charlotte
 - Neha
 - Caitlan
 - Christine
@@ -97,3 +96,4 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Namitha
 - Ray
 - Esther
+- Charlotte
