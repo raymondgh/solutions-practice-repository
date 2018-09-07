@@ -67,7 +67,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 3. Download and install [Github Desktop](https://desktop.github.com/)
 4. Download and install [Sublime Text 3](https://www.sublimetext.com/3)
 5. _Clone_ this repository to your desktop computer using Github Desktop
-6. _Pull_ the latest code
+6. _Pull_ the latest code (aka Fetch Origin in Github Desktop)
 7. Create a new _branch_, name it with your own name
 8. Open Sublime Text and edit README.md by moving your name from one section to the other
 9. _Commit_ changes to your branch
