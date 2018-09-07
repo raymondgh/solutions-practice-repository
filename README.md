@@ -81,7 +81,6 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Sunny
 - Caitlan
 - Adam
-- Skip
 - Betsy
 - Kyle
 - Alok
@@ -97,3 +96,4 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Charlotte
 - Neha
 - Mark
+- Skip
