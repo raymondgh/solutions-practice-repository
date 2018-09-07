@@ -40,7 +40,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 **Clone** - Downloading a repository from remote to local
 
-**Pull** - Retrieving the latest remote version of a branch into local
+**Pull** - Retrieving the latest remote version of a branch into local 
 
 **Push** - Upload the latest local files to the remote repostiory
 
@@ -52,11 +52,11 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 **Command Line Interface (CLI)** - The original tool for using Git is the CLI. There’s a steep learning curve, but the pros will use this.
 
-**Github** - Github is a service provided by Github Inc that provides free and paid git repository hosting.
+**Github** - Github is a service provided by Github Inc that provides free and paid git repository hosting. 
 
 **Github for Desktop** - Github for Desktop is desktop software that makes it easy to use Git. It replaces the CLI but can’t do everything (most things though!).
 
-**Sourcetree** - Sourcetree is desktop software made by Atlassian to help use Git. It competes with Github for Desktop.
+**Sourcetree** - Sourcetree is desktop software made by Atlassian to help use Git. It competes with Github for Desktop. 
 
 
 
@@ -92,7 +92,6 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 ## People who have completed Git Training
 
-- Christine :)
 - Andreas THE GREAT
 - Namitha
 - Ray
