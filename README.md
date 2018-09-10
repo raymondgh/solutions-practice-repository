@@ -83,6 +83,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Kyle
 - Alok
 - Katherine
+- David
 
 ## People who have completed Git Training
 
