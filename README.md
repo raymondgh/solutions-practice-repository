@@ -62,19 +62,20 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 ## Exercises:
 
-1. Sign up for [Github](https://github.com/join) with your personal email and enable 2FA. You can use your periscope email if you prefer, but traditionally developers will keep one main account across their careers that is granted access to the company they currently work for.
-2. Reply to Ray on slack with your github username to be added as a collaborator for this repo
+1. Sign up for [Github](https://github.com/join) and enable 2FA. You can use either your personal email or your periscope email, but traditionally developers will keep one main account tied to their personal email which is granted access to the company they currently work for. Your github profile may someday be used as a technical resume!
+2. Message Ray on slack with your github username to be invited as a collaborator to this repo
 3. Download and install [Github Desktop](https://desktop.github.com/)
 4. Download and install [Sublime Text 3](https://www.sublimetext.com/3)
 5. _Clone_ this repository to your desktop computer using Github Desktop
-6. _Pull_ the latest code (aka Fetch Origin in Github Desktop)
+6. _Pull_ the latest code (aka Fetch Origin & Pull in Github Desktop)
 7. Create a new _branch_, name it with your own name
 8. Open Sublime Text and edit README.md by moving your name from one section to the other
 9. _Commit_ changes to your branch
 10. _Push_ your changes to the remote repository
 11. Submit a _Pull Request_ for your branch
 12. Check github.com to see active pull requests
-13. _Merge_ a PR
+13. Ask a team member to Review and _Merge_ your PR
+14. Ask Jeff W on slack to add you to the Periscope solutions github team
 
 ## People who haven't completed Git Training
 
