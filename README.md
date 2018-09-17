@@ -72,7 +72,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 8. Open Sublime Text and edit README.md by moving your name from one section to the other
 9. _Commit_ changes to your branch
 10. _Push_ your changes to the remote repository
-11. Submit a _Pull Request_ for your branch
+11. Submit a _Pull Request_ for your branch & select teammates to request code review
 12. Check github.com to see active pull requests
 13. Ask a team member to Review and _Merge_ your PR
 14. Ask Jeff W on slack to add you to the Periscope solutions github team
