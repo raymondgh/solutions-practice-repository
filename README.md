@@ -75,7 +75,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 11. Submit a _Pull Request_ for your branch & select teammates to request code review
 12. Check github.com to see active pull requests
 13. Ask a team member to Review and _Merge_ your PR
-14. Ask Jeff W on slack to add you to the Periscope solutions github team
+14. Create a UAC ticket to add you to the Periscope Solutions Github team in JIRA
 15. Go to https://github.com/settings/emails and add your @periscopedata.com email address
 16. Go to https://github.com/settings/notifications and set Periscope notifications to go to your @periscopedata.com email address under custom routing
 
