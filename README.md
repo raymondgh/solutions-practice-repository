@@ -84,7 +84,6 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Betsy
 - Kyle
 - Alok
-- Katherine
 - David
 
 ## People who have completed Git Training
@@ -101,3 +100,4 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Adam
 - Caitlan
 - Sunny
+- Katherine
