@@ -86,6 +86,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 
 ## People who have completed Git Training
 
+- Kirby
 - Matthew ;)
 - Christine :)
 - Andreas THE GREAT ... ¯\_(ツ)_/¯ 
