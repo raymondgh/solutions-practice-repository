@@ -85,7 +85,7 @@ A request for a branch to be merged into another branch. Typically after you fin
 - Alok
 
 ## People who have completed Git Training
-
+- Jules
 - Kirby
 - Matthew ;)
 - Christine :)
